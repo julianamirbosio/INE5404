@@ -1,3 +1,6 @@
 [submodule "ClimaTempo"]
 	path = ClimaTempo
 	url = https://github.com/julianamirbosio/ClimaTempo
+[submodule "GerenciadorSenhas"]
+	path = GerenciadorSenhas
+	url = https://github.com/julianamirbosio/KeepSafe
